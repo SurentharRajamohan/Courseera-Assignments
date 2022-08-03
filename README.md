@@ -1,2 +1,2 @@
-# courseera-test
-Courseera test repository
+# Courseera Assignments
+1) Module 2
