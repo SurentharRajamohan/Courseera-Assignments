@@ -1,0 +1,52 @@
+@media (prefers-reduced-motion: no-preference) {
+* {
+scroll-behavior: smooth;
+}
+}
+
+* {
+box-sizing: border-box;
+
+}
+
+body {
+background-color: #17343A;
+color: #CCB57F;
+}
+
+#header-nav {
+background-color: #112629;
+border: none;
+}
+
+.navbar-brand h1 {
+color: #CCB57F;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid gold;
+}
+
+h2 {
+margin-bottom: 15px;
+
+}
+
+.list-item {
+background-color: #112629;
+padding: 10px;
+margin: 10px;
+}
+
+.item-title {
+font-weight: bold;
+}
+
+#nav-list a {
+color: #CCB57F;
+}
